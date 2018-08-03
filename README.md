@@ -14,4 +14,4 @@ LOLOL says
 :collision:
 
 
-[![Corgi Video](corgi.jpg)(https://www.youtube.com/watch?v=Wvt_K4LW29c)]
+[![Corgi Video](corgi.jpg)](https://www.youtube.com/watch?v=Wvt_K4LW29c)
